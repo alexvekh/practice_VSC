@@ -1,14 +1,37 @@
+p, ol, ul, a {
+    margin: 20px;
+}
+
+img {
+    margin: 20px;
+
+}
+
 h1 {
     color: blue;
     text-align: center;
   }
 
+form {
+    background-color: #ccddfc;
+    width: 500px;
+    height: 200px;
+    padding: 20px;
+    margin: 20px;
+    border: 3px solid black;
+    font-family: arial, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
 
-  table {
+}
+
+
+#oceans {
     border: 1px solid black;
     border-collapse: collapse;
+    margin: 20px;
   }
-  td, th {
+td, th {
     border: 1px solid black;
-    padding: 5px;
+    padding: 10px;
   }
